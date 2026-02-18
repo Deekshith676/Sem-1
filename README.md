@@ -1,6 +1,30 @@
 # Sem-1
 SOCIAL NETWORKING
 ----------BRIEF INFORMATION ABOUT SOCIAL NETWORKING----------
+Social networking is the use of internet-based platforms to connect, communicate, and share information with other people worldwide.
+
+It allows users to:
+
+Create personal profiles
+Add friends / followers
+Share photos, videos, and posts
+Send messages
+Join groups and communities
+
+🌍 Examples of Social Networking Sites
+
+Facebook
+Instagram
+Twitter
+LinkedIn
+Snapchat
+
+✅ Advantages
+
+Easy communication
+Global connectivity
+Business promotion
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
