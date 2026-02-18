@@ -28,4 +28,5 @@ Easy information sharing
 
 
 📝 Conclusion
+Social networking is very useful for college students when used responsibly. Proper usage helps in learning, career growth, and staying connected.
 
