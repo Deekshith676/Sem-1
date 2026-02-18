@@ -1,5 +1,6 @@
 # Sem-1
 SOCIAL NETWORKING
+----------BRIEF INFORMATION ABOUT SOCIAL NETWORKING----------
 <!DOCTYPE html>
 <html lang="en">
 <head>
